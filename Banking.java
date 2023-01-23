@@ -6,3 +6,12 @@ public class Banking {
   }
 
 }
+
+class BankAcc
+{
+  int balance;
+  int previousTransaction;
+  String customerName;
+  String customerId;
+  
+}
